@@ -1,7 +1,7 @@
 @font-face {
   font-family: "eicons";
-  src: url("../fonts/eicons.eot?5.32.0");
-  src: url("../fonts/eicons.eot?5.32.0#iefix") format("embedded-opentype"), url("../fonts/eicons.woff2?5.32.0") format("woff2"), url("../fonts/eicons.woff?5.32.0") format("woff"), url("../fonts/eicons.ttf?5.32.0") format("truetype"), url("../fonts/eicons.svg?5.32.0#eicon") format("svg");
+  src: url("https://thimirat.github.io/port/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5_32_0");
+  src: url("https://thimirat.github.io/port/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5_32_0#iefix") format("embedded-opentype"), url("https://thimirat.github.io/port/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5_32_0") format("woff2"), url("https://thimirat.github.io/port/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5_32_0") format("woff"), url("https://thimirat.github.io/port/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5_32_0") format("truetype"), url("https://thimirat.github.io/port/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5_32_0#eicon") format("svg");
   font-weight: normal;
   font-style: normal;
 }
